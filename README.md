@@ -2,7 +2,7 @@
 
 
 - Estou estudando na Alura, Kulviti, no Curso em vídeo e participo do programa Hackers do bem.
-- Atualmente estou estudando JavaScript pela Alura e adquirindo conhecimento pela plataforma dos Hacker do bem.
+- Atualmente estou estudando redes na cisco e adquirindo conhecimento pela plataforma dos Hacker do bem.
 - Utilizo esse espaço para minha organização e compartilhamento.
 
 ### Você pode entrar em contato comigo 📫
